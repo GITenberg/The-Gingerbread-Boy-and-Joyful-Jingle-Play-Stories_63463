@@ -1,11 +1,14 @@
 _repo: The-Gingerbread-Boy-and-Joyful-Jingle-Play-Stories_63463
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Hetherington, Mildred Lyon
     alias: Lyon, Mildred
     gutenberg_agent_id: '52460'
     url: http://www.gutenberg.org/2009/agents/52460
+covers:
+- cover_type: archival
+  image_path: 63463-h/images/cover.jpg
 creator:
   author:
     agent_name: Smith, Laura Rountree
@@ -14,6 +17,8 @@ creator:
     gutenberg_agent_id: '3469'
     url: http://www.gutenberg.org/2009/agents/3469
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63463#The-Gingerbread-Boy-and-Joyful-Jingle-Play-Stories
 gutenberg_issued: '2020-10-15'
 gutenberg_type: Text
 identifiers:
